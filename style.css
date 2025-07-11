@@ -1,0 +1,114 @@
+body {
+    margin: 0cap;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section1 {
+    background-color: rgb(245, 245, 239);
+    display: flex;
+    justify-content: space-around;
+    margin: rgb(245, 245, 239);
+    align-items: center;
+    padding: 60px;
+    /* margin-right: 92px; */
+     /* margin-left: 92px; */
+     padding-top: 125px;
+    padding-bottom: 125px;
+    margin-bottom: 60px;
+
+}
+    
+.pains1 {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.nosProduits > div {
+    display: flex;
+    
+}
+.img1 {
+    height: 204px;
+    
+}
+.section2  {
+    display: flex;
+    justify-content: space-around;
+    height: 60vh;
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.img2 {
+    height: 169px;
+}
+.title1 > h1 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+    justify-content: center;
+}
+.lorem1 {
+    height: 137px;
+    width: 415.133px;
+}
+.section3 {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.section3 > h2 {
+    margin-bottom: 40px;
+    width: 380.017px;
+    text-align: center;
+}
+.t {
+    display: flex;
+    flex-direction: column;
+    width: 242.45px;
+    text-align: start;
+}
+.section3 > div {
+    display: flex;
+    justify-content: space-between;
+    /* width:  */
+}
+.section3 > .boxContainer {
+    text-align: center;
+    margin-bottom: 7%;
+     width: 1000px;
+}
+.illustration {
+    width: 625px;
+}
+.imgIllustration {
+    width: 100%;
+ }
+ .hContainer {
+    display: flex;
+    background-color: rgb(245, 245, 239);
+    width: 548.133px;
+    height: 648.417px;
+    padding-left: 90px;
+    padding-top: 90px;
+    flex-direction: column;
+ }   
+ .section4 {
+    display: flex;
+    align-items: start
+    /* justify-content: space-between */
+ }
+.hContainer > h2 {
+    padding-bottom: 54px;
+    font-size:xx-large ;
+}
+.hContainer > h3 {
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
+.hContainer > p {
+    margin-top: 0%;
+}
